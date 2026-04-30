@@ -123,13 +123,10 @@ http://<your-public-ip>
 
  
  ### Terraform Plan
-![Plan](screenshots/terraform_plan.png)
-![Plan](screenshots/terraform1_plan.png)
-![Plan](screenshots/terraform2_plan.png)
-![Plan](screenshots/terraform3_plan.png)
+ 
 
 ### Terraform Apply
-![Apply](screenshots/terraform_apply.png)
+![Apply](terraform-ec2\screenshots\terraform_apply.png)
 ![Apply](screenshots/terraform1_apply.png)
 
 ### EC2 Instance
