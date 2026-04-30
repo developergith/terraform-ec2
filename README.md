@@ -133,7 +133,7 @@ http://<your-public-ip>
 ![Apply](screenshots/terraform1_apply.png)
 
 ### EC2 Instance
-![EC2](screenshots/terraform_ec2_instance.png)
+![EC2](screenshots/terraform_ec2_Instance.png)
 
 ### Nginx Output
 ![Nginx](screenshots/nginx_server.png)
