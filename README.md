@@ -123,18 +123,21 @@ http://<your-public-ip>
 
  
  ### Terraform Plan
- 
+![Plan](screenshots/terraform_plan.png)
+![Plan1](screenshots/terraform1_plan.png)
+![Plan2](screenshots/terraform2_plan.png)
+![Plan3](screenshots/terraform3_plan.png)
 
 ### Terraform Apply
-![Apply](terraform-ec2\screenshots\terraform_apply.png)
-![Apply](screenshots/terraform1_apply.png)
+![Apply](screenshots/terraform_apply.png)
+![Apply1](screenshots/terraform1_apply.png)
 
 ### EC2 Instance
 ![EC2](screenshots/terraform_ec2_Instance.png)
 
 ### Nginx Output
-![Nginx](screenshots/nginx_server.png)
-![Nginx](screenshots/nginx_successful.png)
+![Nginx1](screenshots/nginx_server.png)
+![Nginx2](screenshots/nginx_successful.png)
 
 
  Cleanup
